@@ -1,0 +1,81 @@
+{
+	"info": {
+		"_postman_id": "b9c00d99-c3bd-4080-a21f-992671346cb8",
+		"name": "openai",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "modellist",
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "GET",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "Bearer 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",
+						"type": "text"
+					}
+				],
+				"url": null
+			},
+			"response": []
+		},
+		{
+			"name": "makingrequest",
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "GET",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "Bearer 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",
+						"type": "text"
+					}
+				],
+				"url": null
+			},
+			"response": []
+		},
+		{
+			"name": "makingrequest Copy",
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "GET",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "Bearer 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",
+						"type": "text"
+					}
+				],
+				"url": null
+			},
+			"response": []
+		},
+		{
+			"name": "makingrequest Copy 2",
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "GET",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "Bearer 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",
+						"type": "text"
+					}
+				],
+				"url": null
+			},
+			"response": []
+		}
+	]
+}
